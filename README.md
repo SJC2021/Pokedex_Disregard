@@ -1,1 +1,1 @@
-# starter-JS-app
+# Pokedex
